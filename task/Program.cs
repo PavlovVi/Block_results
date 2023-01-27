@@ -22,3 +22,8 @@ for (int i = 0; i < firstArray.Length; i++)
         index++;
     }
 }
+
+for (int i = 0; i < secondArray.Length; i++)
+{
+    Console.WriteLine(secondArray[i]);
+}
